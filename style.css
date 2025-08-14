@@ -163,7 +163,7 @@ nav ul li a:hover::after {
     display: flex;
     align-items: center;
     overflow: hidden;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80') center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('pexels-waseem-kahlool-96870-673021.jpg') center/cover no-repeat;
 }
 
 .hero-content {
@@ -826,3 +826,4 @@ footer {
         padding: 30px 20px;
     }
 }
+
